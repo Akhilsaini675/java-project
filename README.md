@@ -1,2 +1,2 @@
 # java-project
-owner akhil saini
+ author akhil saini
